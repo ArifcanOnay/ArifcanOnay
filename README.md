@@ -3,7 +3,7 @@ div align="center">
 </div>
 👋 Merhaba, Ben Arifcan Onay!
 <div align="center">
-💻 Junior Backend Developer  | 🎓 Bilgisayar Mühendisliği Öğrencisi |  .NET Core Tutkunu
+💻 Junior Backend Developer  | 🎓 Bilgisayar Mühendisliği Öğrencisi |  
 </div>
  Hakkımda
  Kim Ben?
@@ -62,15 +62,4 @@ Satranç oyun mantığı implementasyonu
 Show Image
 Show Image
 </div>
-💭 Günlük Motivasyon
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
-</div>
 
-<div align="center">
-💫 "Backend'de çözüm yok diye bir şey yoktur, sadece henüz bulunamadı!"
-Show Image
-</div>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
