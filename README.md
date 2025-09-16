@@ -7,10 +7,10 @@
  Kimim Ben?
 
  Öğrenci: Bilgisayar Mühendisliği 3. Sınıf
-Uzmanlık: Backend Geliştirme & .NET Teknolojileri
  Konum: Manisa, Turgutlu
  İlgi Alanları: ASP.NET Core, JWT Authentication, Design Patterns, SOLID Principles
  Odaklanma: Web API, MVC, .NET MAUI
+ Backend geliştirmeye olan tutkum doğrultusunda, Microsoft'un geliştirdiği ASP.NET Core - cross-platform, yüksek performanslı, açık kaynaklı web framework'ü ile backend teknolojilerinin derinliklerine inerek, bu alandaki yetkinliğimi sürekli geliştirmekte ve kariyerimde emin adımlarla ilerlemekteyim.
 
 🛠️ Teknolojiler & Araçlar
 <div align="center">
