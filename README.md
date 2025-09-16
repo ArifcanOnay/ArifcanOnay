@@ -1,12 +1,10 @@
-div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arifcan%20Onay&fontSize=50&fontAlignY=35&desc=Backend%20Developer%20%7C%20.NET%20Core%20Enthusiast&descAlignY=51&descAlign=50"/>
-</div>
+
 👋 Merhaba, Ben Arifcan Onay!
 <div align="center">
 💻 Junior Backend Developer  | 🎓 Bilgisayar Mühendisliği Öğrencisi |  
 </div>
  Hakkımda
- Kim Ben?
+ Kimim Ben?
 
  Öğrenci: Bilgisayar Mühendisliği 3. Sınıf
 Uzmanlık: Backend Geliştirme & .NET Teknolojileri
